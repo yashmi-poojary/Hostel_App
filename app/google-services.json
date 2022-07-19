@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995755045342",
+    "firebase_url": "https://dorm-d1c86-default-rtdb.firebaseio.com",
+    "project_id": "dorm-d1c86",
+    "storage_bucket": "dorm-d1c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995755045342:android:120d330fde7250ce586d4f",
+        "android_client_info": {
+          "package_name": "com.example.hostel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995755045342-8qndhkb3inl1jgnfcl299l01039fftp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoiLs1gvwEZRqqr8KNfH6GVu4j2mmVGMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995755045342-8qndhkb3inl1jgnfcl299l01039fftp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
